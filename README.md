@@ -3,8 +3,11 @@
 
 
 ## :clipboard: Sobre 
-Nome: Projeto Bikcraft<br><br>
-Curso: Origamid - HTML e CSS para Iniciantes
+Nome: <strong>Projeto Bikcraft</strong><p>
+Curso:  <strong>UX/UI Designer e Desenvolvedor</strong><p>
+Modulo: <strong>HTML e CSS</strong>
+
+Status: <strong>Em andamento...</strong>
 
 ## :computer: Tecnologias utilizadas
 
