@@ -7,7 +7,7 @@ Nome: <strong>Projeto Bikcraft</strong><p>
 Curso:  <strong>UX/UI Designer e Desenvolvedor</strong><p>
 Modulo: <strong>HTML e CSS</strong>
 
-Status: <strong>Em andamento...</strong>
+Status: <strong>5%</strong>
 
 ## :computer: Tecnologias utilizadas
 
